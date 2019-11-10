@@ -1,0 +1,93 @@
+Henry Rheault
+ICS 462 Assignment #5
+11/09/2019
+
+Random Reference String: 
+For 1 page frames, and using string page reference string 70399043720664978422
+	FIFO had 17 Page Faults.
+	LFU  had 17 Page Faults.
+	Optimal  had 17 Page Faults.
+For 2 page frames, and using string page reference string 70399043720664978422
+	FIFO had 17 Page Faults.
+	LFU  had 17 Page Faults.
+	Optimal  had 14 Page Faults.
+For 3 page frames, and using string page reference string 70399043720664978422
+	FIFO had 15 Page Faults.
+	LFU  had 16 Page Faults.
+	Optimal  had 11 Page Faults.
+For 4 page frames, and using string page reference string 70399043720664978422
+	FIFO had 14 Page Faults.
+	LFU  had 14 Page Faults.
+	Optimal  had 9 Page Faults.
+For 5 page frames, and using string page reference string 70399043720664978422
+	FIFO had 9 Page Faults.
+	LFU  had 12 Page Faults.
+	Optimal  had 8 Page Faults.
+For 6 page frames, and using string page reference string 70399043720664978422
+	FIFO had 9 Page Faults.
+	LFU  had 10 Page Faults.
+	Optimal  had 8 Page Faults.
+For 7 page frames, and using string page reference string 70399043720664978422
+	FIFO had 8 Page Faults.
+	LFU  had 8 Page Faults.
+	Optimal  had 8 Page Faults.
+
+Reference String 1: 
+For 1 page frames, and using string page reference string 07112089030456708912
+	FIFO had 19 Page Faults.
+	LFU  had 19 Page Faults.
+	Optimal  had 19 Page Faults.
+For 2 page frames, and using string page reference string 07112089030456708912
+	FIFO had 18 Page Faults.
+	LFU  had 18 Page Faults.
+	Optimal  had 15 Page Faults.
+For 3 page frames, and using string page reference string 07112089030456708912
+	FIFO had 18 Page Faults.
+	LFU  had 17 Page Faults.
+	Optimal  had 14 Page Faults.
+For 4 page frames, and using string page reference string 07112089030456708912
+	FIFO had 17 Page Faults.
+	LFU  had 16 Page Faults.
+	Optimal  had 13 Page Faults.
+For 5 page frames, and using string page reference string 07112089030456708912
+	FIFO had 17 Page Faults.
+	LFU  had 15 Page Faults.
+	Optimal  had 12 Page Faults.
+For 6 page frames, and using string page reference string 07112089030456708912
+	FIFO had 16 Page Faults.
+	LFU  had 15 Page Faults.
+	Optimal  had 11 Page Faults.
+For 7 page frames, and using string page reference string 07112089030456708912
+	FIFO had 16 Page Faults.
+	LFU  had 15 Page Faults.
+	Optimal  had 10 Page Faults.
+
+Reference String 2: 
+For 1 page frames, and using string page reference string 70120304230321201701
+	FIFO had 20 Page Faults.
+	LFU  had 20 Page Faults.
+	Optimal  had 20 Page Faults.
+For 2 page frames, and using string page reference string 70120304230321201701
+	FIFO had 15 Page Faults.
+	LFU  had 17 Page Faults.
+	Optimal  had 13 Page Faults.
+For 3 page frames, and using string page reference string 70120304230321201701
+	FIFO had 15 Page Faults.
+	LFU  had 12 Page Faults.
+	Optimal  had 9 Page Faults.
+For 4 page frames, and using string page reference string 70120304230321201701
+	FIFO had 10 Page Faults.
+	LFU  had 8 Page Faults.
+	Optimal  had 8 Page Faults.
+For 5 page frames, and using string page reference string 70120304230321201701
+	FIFO had 9 Page Faults.
+	LFU  had 7 Page Faults.
+	Optimal  had 7 Page Faults.
+For 6 page frames, and using string page reference string 70120304230321201701
+	FIFO had 6 Page Faults.
+	LFU  had 6 Page Faults.
+	Optimal  had 6 Page Faults.
+For 7 page frames, and using string page reference string 70120304230321201701
+	FIFO had 6 Page Faults.
+	LFU  had 6 Page Faults.
+	Optimal  had 6 Page Faults.

@@ -1,1 +1,1 @@
-Operating Systems Paging Algorithms Demo
+Operating Systems Paging Demo
